@@ -12,15 +12,7 @@ The simulator implements a simple differential driver forward kinematics of a mo
 
 ## Source
 
-<<<<<<< HEAD
 driver : ~/ws_assn1/src/assn1/src/driver.cpp
 
 simulator : ~/ws_assn1/src/assn1/src/simulator.cpp
-=======
-driver
-~/ws_assn1/src/assn1/src/driver.cpp
-
-simulator
-~/ws_assn1/src/assn1/src/simulator.cpp
->>>>>>> 26b8561343d97326ee66bd1e35d29ffbe8765848
 
