@@ -1,0 +1,2 @@
+assn1
+-DCATKIN_DEVEL_PREFIX=/home/dean/ws_assn1/devel -DCMAKE_INSTALL_PREFIX=/home/dean/ws_assn1/install -G Unix Makefiles
