@@ -1,0 +1,4 @@
+<launch> 
+<node name= "driver" pkg= "assn2" type= "driver" /> 
+<node name= "simulator" pkg= "assn2" type= "simulator" /> 
+</launch> 

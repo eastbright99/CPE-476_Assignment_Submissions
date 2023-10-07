@@ -11,7 +11,11 @@
 
 # since this file is sourced either use the provided _CATKIN_SETUP_DIR
 # or fall back to the destination set at configure time
+<<<<<<< HEAD
 : ${_CATKIN_SETUP_DIR:=/home/dean/ws_assn1/install}
+=======
+: ${_CATKIN_SETUP_DIR:=/home/dean/ws_assn2/install}
+>>>>>>> 26b8561343d97326ee66bd1e35d29ffbe8765848
 _SETUP_UTIL="$_CATKIN_SETUP_DIR/_setup_util.py"
 unset _CATKIN_SETUP_DIR
 

@@ -48,10 +48,17 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = /home/dean/ws_assn1/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/dean/ws_assn1/build
+=======
+CMAKE_SOURCE_DIR = /home/dean/ws_assn2/src
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = /home/dean/ws_assn2/build
+>>>>>>> 26b8561343d97326ee66bd1e35d29ffbe8765848
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -137,14 +144,24 @@ test/fast: test
 
 # The main all target
 all: cmake_check_build_system
+<<<<<<< HEAD
 	cd /home/dean/ws_assn1/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/dean/ws_assn1/build/CMakeFiles /home/dean/ws_assn1/build/gtest/CMakeFiles/progress.marks
 	cd /home/dean/ws_assn1/build && $(MAKE) -f CMakeFiles/Makefile2 gtest/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/dean/ws_assn1/build/CMakeFiles 0
+=======
+	cd /home/dean/ws_assn2/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/dean/ws_assn2/build/CMakeFiles /home/dean/ws_assn2/build/gtest/CMakeFiles/progress.marks
+	cd /home/dean/ws_assn2/build && $(MAKE) -f CMakeFiles/Makefile2 gtest/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/dean/ws_assn2/build/CMakeFiles 0
+>>>>>>> 26b8561343d97326ee66bd1e35d29ffbe8765848
 .PHONY : all
 
 # The main clean target
 clean:
+<<<<<<< HEAD
 	cd /home/dean/ws_assn1/build && $(MAKE) -f CMakeFiles/Makefile2 gtest/clean
+=======
+	cd /home/dean/ws_assn2/build && $(MAKE) -f CMakeFiles/Makefile2 gtest/clean
+>>>>>>> 26b8561343d97326ee66bd1e35d29ffbe8765848
 .PHONY : clean
 
 # The main clean target
@@ -154,17 +171,29 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
+<<<<<<< HEAD
 	cd /home/dean/ws_assn1/build && $(MAKE) -f CMakeFiles/Makefile2 gtest/preinstall
+=======
+	cd /home/dean/ws_assn2/build && $(MAKE) -f CMakeFiles/Makefile2 gtest/preinstall
+>>>>>>> 26b8561343d97326ee66bd1e35d29ffbe8765848
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
+<<<<<<< HEAD
 	cd /home/dean/ws_assn1/build && $(MAKE) -f CMakeFiles/Makefile2 gtest/preinstall
+=======
+	cd /home/dean/ws_assn2/build && $(MAKE) -f CMakeFiles/Makefile2 gtest/preinstall
+>>>>>>> 26b8561343d97326ee66bd1e35d29ffbe8765848
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
+<<<<<<< HEAD
 	cd /home/dean/ws_assn1/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+=======
+	cd /home/dean/ws_assn2/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+>>>>>>> 26b8561343d97326ee66bd1e35d29ffbe8765848
 .PHONY : depend
 
 # Help Target
@@ -191,6 +220,10 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
+<<<<<<< HEAD
 	cd /home/dean/ws_assn1/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+=======
+	cd /home/dean/ws_assn2/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+>>>>>>> 26b8561343d97326ee66bd1e35d29ffbe8765848
 .PHONY : cmake_check_build_system
 

@@ -43,10 +43,17 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = /home/dean/ws_assn1/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/dean/ws_assn1/build
+=======
+CMAKE_SOURCE_DIR = /home/dean/ws_assn2/src
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = /home/dean/ws_assn2/build
+>>>>>>> 26b8561343d97326ee66bd1e35d29ffbe8765848
 
 # Utility rule file for doxygen.
 
@@ -67,6 +74,10 @@ CMakeFiles/doxygen.dir/clean:
 .PHONY : CMakeFiles/doxygen.dir/clean
 
 CMakeFiles/doxygen.dir/depend:
+<<<<<<< HEAD
 	cd /home/dean/ws_assn1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/dean/ws_assn1/src /home/dean/ws_assn1/src /home/dean/ws_assn1/build /home/dean/ws_assn1/build /home/dean/ws_assn1/build/CMakeFiles/doxygen.dir/DependInfo.cmake --color=$(COLOR)
+=======
+	cd /home/dean/ws_assn2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/dean/ws_assn2/src /home/dean/ws_assn2/src /home/dean/ws_assn2/build /home/dean/ws_assn2/build /home/dean/ws_assn2/build/CMakeFiles/doxygen.dir/DependInfo.cmake --color=$(COLOR)
+>>>>>>> 26b8561343d97326ee66bd1e35d29ffbe8765848
 .PHONY : CMakeFiles/doxygen.dir/depend
 
