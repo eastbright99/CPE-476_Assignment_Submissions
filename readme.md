@@ -16,7 +16,7 @@
 driver\
 1. sub cmd_vel
 2. calculate vel_left and right with linear_vel and angular_vel
-3. pub cmd_vel_left and right
+3. pub cmd_vel_left and right\
 link to driver : ~/src/assn1/src/driver.cpp
 
 simulator\
