@@ -8,7 +8,7 @@
 
 * The simulator's two topics/msgs 
     1) a subscriber that consumes cmd_vel
-    1) a publisher that publishes the pose (not consumed)
+     1) a publisher that publishes the pose (not consumed)
 
 * The simulator implements a simple differential driver forward kinematics of a mobile robot to determine the pose of the robot.
 
