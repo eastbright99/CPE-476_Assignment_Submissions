@@ -14,7 +14,7 @@
 
 ## Brief Description
 * driver.cpp (link : ~/src/assn1/src/driver.cpp)
-1. subscribe cmd_vel
+1. receive cmd_vel with geometry_msgs/Twist
 2. calculate vel_left and right with equations
 3. publish cmd_vel_left and right
 
