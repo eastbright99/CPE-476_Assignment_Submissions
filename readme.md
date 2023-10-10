@@ -1,4 +1,4 @@
-# Forward Kinematics of a DDMWR/Assignment 1 - Donghyung(Dean)
+# Assignment 1 - Donghyung(Dean)
 
 ## Assignment Interpretation
 * develop two cpp or python files, the driver and the simulator.
