@@ -46,11 +46,11 @@ $ rosrun assn1 simulator.cpp
 
 <br/>
 
-making input
+Putting input
 ```
 $ rqt
 ```
-Plugins >> Topics >> Message Publisher >> [+] >> cmd_vel  
+With rqt, Plugins >> Topics >> Message Publisher >> [+] >> cmd_vel  
 change values with linear.x and angular.z  
 
 Finally, check the diffrence with output on the terminal
