@@ -14,13 +14,15 @@
 
 ## Brief Description
 driver link (~/src/assn1/src/driver.cpp)
-1. sub cmd_vel
-2. calculate vel_left and right with linear_vel and angular_vel
-3. pub cmd_vel_left and right
+1. subscribe cmd_vel
+2. calculate vel_left and right with equations
+3. publish cmd_vel_left and right
 
 
-simulator\
-link to simulator : ~/src/assn1/src/simulator.cpp
+simulator link (~/src/assn1/src/simulator.cpp)
+1. subscribe cmd_vel_left and right
+2. calculate pose_x, y, theta with equations
+3. publish pose_x, y, theta data
 
 ## Instruction to excute
 
