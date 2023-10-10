@@ -38,7 +38,7 @@ $ catkin_make
 
 Execution
 ```
-$ source ~/assn1/devel/setup.bash //when opening every terminal
+$ source ~/assn1/devel/setup.bash    // when opening every terminal
 $ rosrun assn1 driver.cpp
 $ rosrun assn1 simulator.cpp
 ```
