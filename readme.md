@@ -29,7 +29,7 @@
 Installation
 ```
 $ cd
-$ git clone
+$ git clone https://github.com/eastbright99/CPE-476_Assignment_Submissions/assn1.git
 $ cd assn1
 $ catkin_make
 ```
@@ -38,6 +38,7 @@ $ catkin_make
 
 Execution
 ```
+$ roscore                            // just one time
 $ source ~/assn1/devel/setup.bash    // when opening every terminal
 $ rosrun assn1 driver.cpp
 $ rosrun assn1 simulator.cpp
@@ -49,6 +50,7 @@ making input
 ```
 $ rqt
 ```
+Plugins >> Topics >> Message Publisher >> [+] >> cmd_vel >> give a change to linear.x and angular.z >> [x] >> check terminal
 
 ## Screenshots
 ![screenshot1](./images/screenshot1.png)
