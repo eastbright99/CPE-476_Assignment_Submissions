@@ -52,6 +52,7 @@ $ rqt
 ```
 Plugins >> Topics >> Message Publisher >> [+] >> cmd_vel  
 give a change with linear.x and angular.z  
+
 check the diffrence with output on terminal  
 
 ## Screenshots
