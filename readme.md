@@ -13,11 +13,11 @@
 * The simulator implements a simple differential driver forward kinematics of a mobile robot to determine the pose of the robot.
 
 ## Brief Description
-driver\
+driver link (~/src/assn1/src/driver.cpp)
 1. sub cmd_vel
 2. calculate vel_left and right with linear_vel and angular_vel
-3. pub cmd_vel_left and right\
-link to driver : ~/src/assn1/src/driver.cpp
+3. pub cmd_vel_left and right
+
 
 simulator\
 link to simulator : ~/src/assn1/src/simulator.cpp
