@@ -28,10 +28,10 @@
 ## Instruction
 Installation
 '''
-$ cd
-$ git clone
-$ cd assn1
-$ catkin_make
+$ cd  
+$ git clone  
+$ cd assn1  
+$ catkin_make  
 '''
 Execution
 '''
