@@ -15,8 +15,7 @@
 ## Brief Description
 
 ### Source file
-driver : ~/ws_assn1/src/assn1/src/driver.cpp
-simulator : ~/ws_assn1/src/assn1/src/simulator.cpp
+driver : ~/ws_assn1/src/assn1/src/driver.cpp \n simulator : ~/ws_assn1/src/assn1/src/simulator.cpp
 
 ## Instruction to excute
 
