@@ -19,6 +19,7 @@
 3. publish cmd_vel_left and right
 
 
+
 * simulator link (~/src/assn1/src/simulator.cpp)
 1. subscribe cmd_vel_left and right
 2. calculate pose_x, y, theta with equations
