@@ -13,7 +13,9 @@
 * The simulator implements a simple differential driver forward kinematics of a mobile robot to determine the pose of the robot.
 
 ## Brief Description
-
+### Source file
+driver : ~/ws_assn1/src/assn1/src/driver.cpp
+simulator : ~/ws_assn1/src/assn1/src/simulator.cpp
 
 ## Instruction to excute
 
@@ -23,10 +25,3 @@
 
 ## Video
 Execution video [LINK](https://pages.github.com/).
-
-
-## Source
-
-driver : ~/ws_assn1/src/assn1/src/driver.cpp
-
-simulator : ~/ws_assn1/src/assn1/src/simulator.cpp
