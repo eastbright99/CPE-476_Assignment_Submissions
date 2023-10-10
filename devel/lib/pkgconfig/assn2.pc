@@ -1,8 +1,0 @@
-prefix=/home/dean/ws_assn2/devel
-
-Name: assn2
-Description: Description of assn2
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
