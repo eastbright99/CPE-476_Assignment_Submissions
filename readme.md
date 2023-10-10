@@ -50,7 +50,9 @@ making input
 ```
 $ rqt
 ```
-Plugins >> Topics >> Message Publisher >> [+] >> cmd_vel >> give a change to linear.x and angular.z >> [x] >> check terminal
+Plugins >> Topics >> Message Publisher >> [+] >> cmd_vel  
+give a change with linear.x and angular.z  
+check the diffrence with output on terminal  
 
 ## Screenshots
 ![screenshot1](./images/screenshot1.png)
