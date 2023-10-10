@@ -57,6 +57,7 @@ Finally, check the diffrence with output on the terminal
 
 ## Screenshots
 ![screenshot1](./images/screenshot1.png)
+![screenshot1](./images/screenshot1.png)
 
 ## Video
 Execution video [LINK](https://pages.github.com/).
