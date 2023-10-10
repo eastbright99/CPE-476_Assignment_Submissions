@@ -51,9 +51,9 @@ making input
 $ rqt
 ```
 Plugins >> Topics >> Message Publisher >> [+] >> cmd_vel  
-give a change with linear.x and angular.z  
+change values with linear.x and angular.z  
 
-check the diffrence with output on terminal  
+Finally, check the diffrence with output on the terminal
 
 ## Screenshots
 ![screenshot1](./images/screenshot1.png)
