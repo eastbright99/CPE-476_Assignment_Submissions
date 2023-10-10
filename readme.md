@@ -18,7 +18,7 @@
 2. calculate vel_left and right with equations
 3. publish cmd_vel_left and right
 
-  
+<br\>
 
 * simulator link (~/src/assn1/src/simulator.cpp)
 1. subscribe cmd_vel_left and right
