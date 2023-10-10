@@ -33,14 +33,14 @@ $ git clone
 $ cd assn1
 $ catkin_make
 ```
-<br/>
+
 Execution
 ```
 $ source ~/assn1/devel/setup.bash //when opening every terminal
 $ rosrun assn1 driver.cpp
 $ rosrun assn1 simulator.cpp
 ```
-<br/>
+
 making input
 ```
 $ rqt
