@@ -56,8 +56,11 @@ change values with linear.x and angular.z
 Finally, check the diffrence with output on the terminal
 
 ## Screenshots
-![screenshot1](./images/screenshot1.png)
-![screenshot1](./images/screenshot1.png)
+![int_vel](./images/int_vel.png)
+![int_pose](./images/int_pose.png)
+![rqt](./images/rqt.png)
+![cur_vel](./images/cur_vel.png)
+![cur_pose](./images/cur_pose.png)
 
 ## Video
 Execution video [LINK](https://pages.github.com/).
