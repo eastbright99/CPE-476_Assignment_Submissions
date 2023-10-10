@@ -19,7 +19,7 @@ The simulator implements a simple differential driver forward kinematics of a mo
 
 
 ## Screenshots
-
+![screenshot1](./images/screenshot1.png)
 
 ## Video
 
