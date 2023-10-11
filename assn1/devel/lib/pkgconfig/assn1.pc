@@ -1,0 +1,8 @@
+prefix=/home/dean/CPE-476_Assignment_Submissions/assn1/devel
+
+Name: assn1
+Description: Description of assn1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
