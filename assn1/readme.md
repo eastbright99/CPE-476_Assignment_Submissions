@@ -29,7 +29,7 @@
 Installation
 ```
 $ cd
-$ git clone https://github.com/eastbright99/CPE-476_Assignment_Submissions/assn1.git
+$ git clone https://github.com/eastbright99/CPE-476_Assignment_Submissions/tree/master/assn1
 $ cd assn1
 $ catkin_make
 ```
