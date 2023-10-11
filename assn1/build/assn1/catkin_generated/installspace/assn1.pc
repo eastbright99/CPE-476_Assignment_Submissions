@@ -1,0 +1,8 @@
+prefix=/home/dean/ws_assn1/assn1/install
+
+Name: assn1
+Description: Description of assn1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
