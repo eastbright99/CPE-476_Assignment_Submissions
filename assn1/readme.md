@@ -56,19 +56,27 @@ change values with linear.x and angular.z
 Finally, check the diffrence with output on the terminal
 
 ## Screenshots
-Initial Velocity
+Initial Velocity  
 ![int_vel](./images/int_vel.png)
+
 <br/>
-Initial Pose
+
+Initial Pose  
 ![int_pose](./images/int_pose.png)
+
 <br/>
-rqt
+
+rqt  
 ![rqt](./images/rqt.png)
+
 <br/>
-Current Velocity
+
+Current Velocity  
 ![cur_vel](./images/cur_vel.png)
+
 <br/>
-Current Pose
+
+Current Pose  
 ![cur_pose](./images/cur_pose.png)
 
 ## Video
