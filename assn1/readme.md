@@ -38,8 +38,8 @@ $ catkin_make
 
 Execution
 ```
-$ roscore                            // just one time
-$ source ~/assn1/devel/setup.bash    // when opening every terminal
+$ roscore
+$ source ~/CPE-476_Assignment_Submissions/assn1/devel/setup.bash
 $ rosrun assn1 driver
 $ rosrun assn1 simulator
 ```
