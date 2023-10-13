@@ -80,7 +80,4 @@ Current Pose
 ![cur_pose](./images/cur_pose.png)
 
 ## Video
-Execution video [LINK](https://pages.github.com/).
-
-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
-
+Execution video [LINK](https://youtu.be/LdLFa0SNzKI).
