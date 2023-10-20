@@ -1,0 +1,8 @@
+prefix=/home/dean/CPE-476_Assignment_Submissions/assn2/install
+
+Name: assn2
+Description: Description of assn2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

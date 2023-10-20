@@ -2,4 +2,4 @@
 source_root_dir = '/home/dean/CPE-476_Assignment_Submissions/assn1/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/opt/ros/noetic'.split(';') if '/opt/ros/noetic' != '' else []
+underlay_workspaces = '/home/dean/ws_irs/devel;/home/dean/ws_wit/devel;/home/dean/ws_sbg/devel;/opt/ros/noetic'.split(';') if '/home/dean/ws_irs/devel;/home/dean/ws_wit/devel;/home/dean/ws_sbg/devel;/opt/ros/noetic' != '' else []

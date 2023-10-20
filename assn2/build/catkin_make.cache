@@ -1,0 +1,2 @@
+assn2
+-DCATKIN_DEVEL_PREFIX=/home/dean/CPE-476_Assignment_Submissions/assn2/devel -DCMAKE_INSTALL_PREFIX=/home/dean/CPE-476_Assignment_Submissions/assn2/install -G Unix Makefiles

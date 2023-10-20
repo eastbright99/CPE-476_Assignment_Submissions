@@ -9,6 +9,7 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/dean/CPE-476_Assignment_Submissions/assn1/devel:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/dean/CPE-476_Assignment_Submissions/assn1/devel/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/dean/CPE-476_Assignment_Submissions/assn1/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/dean/CPE-476_Assignment_Submissions/assn1/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/dean/CPE-476_Assignment_Submissions/assn1/devel/share/common-lisp'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/dean/CPE-476_Assignment_Submissions/assn1/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/dean/CPE-476_Assignment_Submissions/assn1/src:$ROS_PACKAGE_PATH"
