@@ -6,19 +6,19 @@
 ## #2 Controller Setup and Test
 
 * Motor Test
-![Motor Test img](./images/motor.png)
+<img src="./images/motor.png" width="400" height="400"/>
 [Motor Test vid](https://youtu.be/NaodVQfLnjE).
 
 * Encoder Test
-![Encoder Test img](./images/encoder.png)
+<img src="./images/encoder.png" width="400" height="400"/>
 [Encoder Test vid](https://youtu.be/NaodVQfLnjE).
 
 * IMU Test
-![IMU Test img](./images/IMU.png)
+<img src="./images/IMU.png" width="400" height="400"/>
 [IMU Test vid](https://youtu.be/NaodVQfLnjE).
 
 * Drive Test
-![Drive Test img](./images/drive.png)
+<img src="./images/drive.png" width="400" height="400"/>
 [Drive Test vid](https://youtu.be/NaodVQfLnjE).
 
 ## #3 Jetson nano Setup
