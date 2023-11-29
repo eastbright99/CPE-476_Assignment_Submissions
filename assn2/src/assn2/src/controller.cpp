@@ -124,13 +124,13 @@ void move() {
     double thD = atan2(g_goal_pose_y.data - g_current_pose_y.data, g_goal_pose_x.data - g_current_pose_x.data)-g_current_pose_th.data ;
 
     if (D > 0.01) {
-	    vel.linear.x = min(1.5* D, 5.0);
+	    vel.linear.x = min(1.5* D, 5.0);        // 1.5 is approximate proportional k value in PID controller with linear velocity
 	    vel.linear.y = 0;
 	    vel.linear.z = 0;
 
 	    vel.angular.x = 0;
 	    vel.angular.y = 0;
-	    vel.angular.z = 2 * thD;
+	    vel.angular.z = 2 * thD;                // 2.0 is approximate proportional k value in PID controller with angular velocity
         pub_4.publish(vel);
     }
     else {
