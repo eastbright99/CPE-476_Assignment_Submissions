@@ -12,12 +12,16 @@
 <br/><br/><br/>
 
 * Encoder Test
-<img src="./images/encoder.png" width="1000" height="400"/>
+<img src="./images/encoder.png" width="900" height="400"/>
 [Encoder Test vid](https://youtu.be/NaodVQfLnjE).  
 
+<br/><br/><br/>
+
 * IMU Test
-<img src="./images/IMU.png" width="1200" height="900"/>
+<img src="./images/IMU.png" width="900" height="400"/>
 [IMU Test vid](https://youtu.be/NaodVQfLnjE).  
+
+<br/><br/><br/>
 
 * Drive Test
 <img src="./images/drive.png" width="400" height="400"/>
@@ -28,8 +32,12 @@
 * Jetson nano Desktop
 ![Jetson nano Desktop img](./images/desktop.png)
 
+<br/><br/><br/>
+
 * ROScore check
 ![ROScore check img](./images/ROS.png)
+
+<br/><br/><br/>
 
 * Directories check
 ![Directories check img](./images/directories.png)
