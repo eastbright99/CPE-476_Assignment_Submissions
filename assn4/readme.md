@@ -12,7 +12,7 @@
 <br/>
 
 * Encoder Test
-<img src="./images/encoder.png" width="1200" height="900"/>
+<img src="./images/encoder.png" width="1000" height="400"/>
 [Encoder Test vid](https://youtu.be/NaodVQfLnjE).  
 
 * IMU Test
