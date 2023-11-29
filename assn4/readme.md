@@ -7,18 +7,15 @@
 
 * Motor Test
 <img src="./images/motor.png" width="400" height="400"/>
-[Motor Test vid](https://youtu.be/NaodVQfLnjE).
-
+[Motor Test vid](https://youtu.be/NaodVQfLnjE).  
 
 * Encoder Test
 <img src="./images/encoder.png" width="1200" height="900"/>
-[Encoder Test vid](https://youtu.be/NaodVQfLnjE).
-
+[Encoder Test vid](https://youtu.be/NaodVQfLnjE).  
 
 * IMU Test
 <img src="./images/IMU.png" width="1200" height="900"/>
-[IMU Test vid](https://youtu.be/NaodVQfLnjE).
-
+[IMU Test vid](https://youtu.be/NaodVQfLnjE).  
 
 * Drive Test
 <img src="./images/drive.png" width="400" height="400"/>
