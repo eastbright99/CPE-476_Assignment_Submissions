@@ -34,24 +34,24 @@
 ## #3 Jetson nano Setup
 
 * Jetson nano Desktop
-![Jetson nano Desktop img](./images/desktop.png)
+<img src="./images/desktop.png" width="800" height="400"/>
 
 <br/><br/><br/>
 
 * ROScore check
-![ROScore check img](./images/ROS.png)
+<img src="./images/ROS.png" width="800" height="400"/>
 
 <br/><br/><br/>
 
 * Directories check
-![Directories check img](./images/directories.png)
+<img src="./images/directories.png" width="800" height="400"/>
 
 ## #4 Calibrate Robot
 
 ## #5 Lidar Setup and Test
 
 * running Lidar with Rviz
-![Lidar Test img](./images/lidar.png)
+<img src="./images/lidar.png" width="800" height="400"/>
 
 [Lidar Test vid](https://youtu.be/NaodVQfLnjE).
 
