@@ -7,7 +7,7 @@
 
 * Motor Test
 <img src="./images/motor.png" width="400" height="400"/>  
- [Motor Test vid](https://youtu.be/NaodVQfLnjE)
+Execution video [Motor Test vid](https://youtu.be/NaodVQfLnjE).
 
 Execution video [LINK](https://youtu.be/NaodVQfLnjE).
 <br/><br/><br/>
