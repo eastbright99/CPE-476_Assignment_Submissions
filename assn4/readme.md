@@ -6,7 +6,8 @@
 ## #2 Controller Setup and Test
 
 * Motor Test
-<img src="./images/motor.png" width="400" height="400"/>  
+<img src="./images/motor.png" width="400" height="400"/>
+<br/>
 Execution video [Motor Test vid](https://youtu.be/NaodVQfLnjE).
 <br/><br/><br/>
 
