@@ -8,7 +8,7 @@
 * Motor Test
 <img src="./images/motor.png" width="400" height="400"/>
 
-[Motor Test vid](https://youtube.com/shorts/FEDPxpPm5LE){: target="_blank"}
+[Motor Test vid](https://youtube.com/shorts/FEDPxpPm5LE){: target="\_blank"}
 
 <br/><br/><br/>
 
