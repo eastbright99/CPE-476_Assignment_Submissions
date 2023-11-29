@@ -1,7 +1,7 @@
 # Assignment 4 - Donghyung(Dean)
 
 ## #1 Setup robot (instant assemble)
-<img src="./images/top.png" width="300" height="300"/><img src="./images/front.jpg" width="300" height="300"/><img src="./images/side.jpg" width="300" height="300"/><img src="./images/rover.jpg" width="300" height="300"/>
+<img src="./images/top.png" width="400" height="400"/><img src="./images/front.jpg" width="400" height="400"/><img src="./images/side.jpg" width="400" height="400"/><img src="./images/rover.jpg" width="400" height="400"/>
 <br/><br/><br/>
 ## #2 Controller Setup and Test
 
