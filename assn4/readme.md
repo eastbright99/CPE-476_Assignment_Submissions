@@ -15,21 +15,21 @@
 * Encoder Test
 <img src="./images/encoder.png" width="800" height="400"/>
 
-[Encoder Test vid](https://youtu.be/NaodVQfLnjE).  
+[Encoder Test vid](https://youtu.be/XNeViqGiyZg).  
 
 <br/><br/><br/>
 
 * IMU Test
 <img src="./images/IMU.png" width="800" height="400"/>
 
-[IMU Test vid](https://youtu.be/NaodVQfLnjE).  
+[IMU Test vid](https://youtu.be/aI7jzNcRZzI).  
 
 <br/><br/><br/>
 
 * Drive Test
 <img src="./images/drive.png" width="400" height="400"/>
 
-[Drive Test vid](https://youtu.be/NaodVQfLnjE).
+[Drive Test vid](https://youtube.com/shorts/gPzR5lazhyQ?feature=share).
 <br/><br/><br/>
 ## #3 Jetson nano Setup
 
@@ -57,6 +57,6 @@
 * running Lidar with Rviz
 <img src="./images/lidar.png" width="800" height="400"/>
 
-[Lidar Test vid](https://youtu.be/NaodVQfLnjE).
+[Lidar Test vid](https://youtu.be/mS8J2_pSlNk).
 
 <br/><br/><br/>
