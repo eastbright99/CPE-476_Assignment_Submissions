@@ -1,11 +1,10 @@
 # Assignment 4 - Donghyung(Dean)
 
 ## #1 Setup robot (instant assemble)
-<img src="./images/rover.jpg" width="200" height="400"/>
-![Rover](./images/rover.jpg)
-![front](./images/front.jpg)
-![side](./images/side.jpg)
-![top](./images/top.png)
+<img src="./images/rover.jpg" width="400" height="400"/>
+<img src="./images/front.jpg" width="400" height="400"/>
+<img src="./images/side.jpg" width="400" height="400"/>
+<img src="./images/top.jpg" width="400" height="400"/>
 
 ## #2 Controller Setup and Test
 
