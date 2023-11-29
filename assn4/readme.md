@@ -7,8 +7,9 @@
 
 * Motor Test
 <img src="./images/motor.png" width="400" height="400"/>
-<br/>
-Execution video [Motor Test vid](https://youtu.be/NaodVQfLnjE).
+Execution video [LINK](https://youtu.be/NaodVQfLnjE).
+Execution video [LINK](https://youtu.be/NaodVQfLnjE).
+
 <br/><br/><br/>
 
 * Encoder Test
