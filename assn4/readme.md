@@ -8,9 +8,7 @@
 * Motor Test
 <img src="./images/motor.png" width="400" height="400"/>
 
-<a href="https://youtube.com/shorts/FEDPxpPm5LE" target="_blank">Motor Test</a>
-
-[Motor Test vid](https://youtube.com/shorts/FEDPxpPm5LE){: target="\_blank"}
+[Motor Test vid](https://youtube.com/shorts/FEDPxpPm5LE)
 
 <br/><br/><br/>
 
