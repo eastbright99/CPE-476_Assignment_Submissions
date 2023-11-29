@@ -13,14 +13,14 @@
 <br/><br/><br/>
 
 * Encoder Test
-<img src="./images/encoder.png" width="900" height="400"/>
+<img src="./images/encoder.png" width="800" height="400"/>
 
 [Encoder Test vid](https://youtu.be/NaodVQfLnjE).  
 
 <br/><br/><br/>
 
 * IMU Test
-<img src="./images/IMU.png" width="900" height="400"/>
+<img src="./images/IMU.png" width="800" height="400"/>
 
 [IMU Test vid](https://youtu.be/NaodVQfLnjE).  
 
