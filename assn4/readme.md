@@ -1,6 +1,7 @@
 # Assignment 4 - Donghyung(Dean)
 
 ## #1 Setup robot (instant assemble)
+<img src="./images/rover.jpg" width="200" height="400"/>
 ![Rover](./images/rover.jpg)
 ![front](./images/front.jpg)
 ![side](./images/side.jpg)
