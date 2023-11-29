@@ -46,7 +46,11 @@
 * Directories check
 <img src="./images/directories.png" width="800" height="400"/>
 
+<br/><br/><br/>
+
 ## #4 Calibrate Robot
+
+<br/><br/><br/>
 
 ## #5 Lidar Setup and Test
 
@@ -55,3 +59,4 @@
 
 [Lidar Test vid](https://youtu.be/NaodVQfLnjE).
 
+<br/><br/><br/>
