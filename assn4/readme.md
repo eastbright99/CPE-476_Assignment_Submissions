@@ -2,7 +2,7 @@
 
 ## #1 Setup robot (instant assemble)
 <img src="./images/top.png" width="400" height="400"/><img src="./images/front.jpg" width="400" height="400"/><img src="./images/side.jpg" width="400" height="400"/><img src="./images/rover.jpg" width="400" height="400"/>
-
+<br/><br/><br/>
 ## #2 Controller Setup and Test
 
 * Motor Test
@@ -30,7 +30,7 @@
 <img src="./images/drive.png" width="400" height="400"/>
 
 [Drive Test vid](https://youtu.be/NaodVQfLnjE).
-
+<br/><br/><br/>
 ## #3 Jetson nano Setup
 
 * Jetson nano Desktop
