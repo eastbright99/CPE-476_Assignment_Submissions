@@ -8,7 +8,7 @@
 ## #2 Controller Setup and Test
 
 * STM hex file download
-<img src="./images/STM.png" width="800" height="400"/>
+<img src="./images/STM.png" height="400"/>
 
 <br/><br/>
 
