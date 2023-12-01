@@ -1,15 +1,11 @@
 # Assignment 3 - Donghyung(Dean)
 
 ## #1 modify the URDF
-
-based on "drive_robot.launch"
 <img src="./images/1.png"/>
 <br/>
-you just need to modify the "mobile_robot.urdf.xacro" file
-
+based on "drive_robot.launch" you just need to modify the "mobile_robot.urdf.xacro" file
 
 <br/>
-
 
 1) change chassis size
 <img src="./images/2.png"/>
