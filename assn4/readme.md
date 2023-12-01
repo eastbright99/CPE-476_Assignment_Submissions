@@ -4,8 +4,9 @@
 <img src="./images/top.png" width="400" height="400"/><img src="./images/front.jpg" width="400" height="400"/><img src="./images/side.jpg" width="400" height="400"/><img src="./images/rover.jpg" width="400" height="400"/>
 <br/><br/><br/>
 ## #2 Controller Setup and Test
+
 * STM hex file download
-<img src="./images/STM.png" width="400" height="400"/>
+<img src="./images/STM.png" width="800" height="400"/>
 
 <br/><br/><br/>
 
@@ -36,6 +37,10 @@
 [Drive Test vid](https://youtube.com/shorts/gPzR5lazhyQ?feature=share).
 <br/><br/><br/>
 ## #3 Jetson nano Setup
+* SD card img file download
+<img src="./images/desktop.png" width="800" height="400"/>
+
+<br/><br/><br/>
 
 * Jetson nano Desktop
 <img src="./images/desktop.png" width="800" height="400"/>
