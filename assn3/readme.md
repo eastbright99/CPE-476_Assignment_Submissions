@@ -56,7 +56,8 @@ type these
 roslaunch ros_mobile_robot drive_robot.launch
 roslaunch yahboomcar_ctrl yahboom_keyboard.launch
 ```
-you can see robot move
+<img src="./images/10.png"/>
+you can see robot move with "yahboom_keyboard.launch"
 
 [Lidar Test vid](https://youtu.be/mS8J2_pSlNk)
 
