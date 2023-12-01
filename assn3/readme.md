@@ -26,12 +26,12 @@ you just need to modify the "mobile_robot.urdf.xacro" file
 
 ## #3 Move robot with rqt_robot_steering
 <img src="./images/8.png"/>
-<br/>
+
 ```
 roslaunch ros_mobile_robot drive_robot.launch<br/>
 rosrun rqt_robot_steering rqt_robot_steering
 ```
-<br/>
+
 you can see robot move
 
 <br/><br/>
