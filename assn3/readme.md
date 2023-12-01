@@ -48,7 +48,7 @@ you need to change 'cmd_vel' -> 'robot_diff_drive_controller/cmd_vel'
 
 <br/><br/>
 
-after modifying, type these
+after modification, type these
 ```
 roslaunch ros_mobile_robot drive_robot.launch
 roslaunch yahboomcar_ctrl yahboom_keyboard.launch
