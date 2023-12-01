@@ -15,7 +15,7 @@ based on "drive_robot.launch" you just need to modify the "mobile_robot.urdf.xac
 <br/><br/>
 
 ## #2 Display robot with Rviz
-<img src="./images/7.png" width="400" height="300"/><img src="./images/5.png" width="400" height="300"/><img src="./images/6.png" width="400" height="300"/>
+<img src="./images/4.png" width="400" height="300"/><img src="./images/5.png" width="400" height="300"/><img src="./images/6.png" width="400" height="300"/>
 
 <br/><br/>
 
@@ -25,7 +25,7 @@ after you type these
 roslaunch ros_mobile_robot drive_robot.launch
 rosrun rqt_robot_steering rqt_robot_steering
 ```
-<img src="./images/8.png" width="200" height="300"/>
+<img src="./images/7.png" width="200" height="300"/>
 
 you can see robot [move with rqt_robot_steering](https://youtu.be/T9TOjsH_5X0)
 
@@ -36,12 +36,12 @@ if you type this
 ```
 rostopic list
 ```
-<img src="./images/9.png"/>
+<img src="./images/8.png"/>
 you can check robot moves based on "/robot_diff_drive_controller/cmd_vel" topic
 
 <br/><br/><br/>
 
-<img src="./images/4.png"/>
+<img src="./images/9.png"/>
 
 so in "yahboom_keyboard.py"<br/>
 you need to change 'cmd_vel' -> 'robot_diff_drive_controller/cmd_vel'
