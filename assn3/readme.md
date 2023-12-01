@@ -6,7 +6,6 @@ based on "drive_robot.launch"
 <img src="./images/1.png"/>
 <br/>
 you just need to modify the "mobile_robot.urdf.xacro" file
-
 <br/>
 1) change chassis size
 <img src="./images/2.png"/>
@@ -17,10 +16,6 @@ you just need to modify the "mobile_robot.urdf.xacro" file
 
 ## #2 Display robot with Rviz
 <img src="./images/7.png" width="400" height="300"/><img src="./images/5.png" width="400" height="300"/><img src="./images/6.png" width="400" height="300"/>
-
-
-[Motor Test vid](https://youtube.com/shorts/FEDPxpPm5LE)
-
 
 <br/><br/>
 
