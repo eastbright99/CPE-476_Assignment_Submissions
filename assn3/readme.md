@@ -20,21 +20,18 @@ based on "drive_robot.launch" you just need to modify the "mobile_robot.urdf.xac
 <br/><br/>
 
 ## #3 Move robot with rqt_robot_steering
-<img src="./images/8.png" width="200" height="300"/>
-
+type these
 ```
 roslaunch ros_mobile_robot drive_robot.launch
 rosrun rqt_robot_steering rqt_robot_steering
 ```
-
-you can see robot move
+<img src="./images/8.png" width="200" height="300"/>
+you can see robot move with rqt_robot_steering
 
 <br/><br/>
 
-
-
 ## #4 Move robot with keyboard
-
+if you type this
 ```
 rostopic list
 ```
@@ -54,6 +51,7 @@ you need to modify
 
 after finishing change
 
+type these
 ```
 roslaunch ros_mobile_robot drive_robot.launch
 roslaunch yahboomcar_ctrl yahboom_keyboard.launch
