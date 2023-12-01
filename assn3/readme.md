@@ -38,15 +38,11 @@ rostopic list
 <img src="./images/9.png"/>
 you can find robot moves based on "/robot_diff_drive_controller/cmd_vel" topic
 
-<br/><br/>
-
-so in "yahboom_keyboard.py"
-
 <br/>
 
 <img src="./images/4.png"/>
 
-you need to modify
+so in "yahboom_keyboard.py" you need to modify
 'cmd_vel' -> 'robot_diff_drive_controller/cmd_vel'
 
 <br/>
