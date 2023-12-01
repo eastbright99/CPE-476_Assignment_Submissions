@@ -1,8 +1,9 @@
 # Assignment 4 - Donghyung(Dean)
 
 ## #1 modify the URDF
+<img src="./images/1.png"/>
 based on "drive_robot.launch"
-you need to change "mobile_robot.urdf.xacro"
+just need to change the "mobile_robot.urdf.xacro" file
 1) change chassis size
 <img src="./images/2.png"/>
 2) change wheel joint's position
