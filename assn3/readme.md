@@ -1,7 +1,12 @@
 # Assignment 4 - Donghyung(Dean)
 
-## #1 Setup robot (instant assemble)
-<img src="./images/top.png" width="400" height="400"/><img src="./images/front.jpg" width="400" height="400"/><img src="./images/side.jpg" width="400" height="400"/><img src="./images/rover.jpg" width="400" height="400"/>
+## #1 modify the URDF
+based on "drive_robot.launch"
+you need to change "mobile_robot.urdf.xacro"
+1) change chassis size
+<img src="./images/2.png"/>
+2) change wheel joint's position
+<img src="./images/3.png"/>
 
 <br/><br/>
 
