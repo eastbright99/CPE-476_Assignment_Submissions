@@ -20,7 +20,7 @@ based on "drive_robot.launch" you just need to modify the "mobile_robot.urdf.xac
 <br/><br/>
 
 ## #3 Move robot with rqt_robot_steering
-type these
+after you type these
 ```
 roslaunch ros_mobile_robot drive_robot.launch
 rosrun rqt_robot_steering rqt_robot_steering
@@ -49,9 +49,9 @@ so in "yahboom_keyboard.py"
 you need to modify
 'cmd_vel' -> 'robot_diff_drive_controller/cmd_vel'
 
-after finishing change
+<br/>
 
-type these
+after finishing change type these
 ```
 roslaunch ros_mobile_robot drive_robot.launch
 roslaunch yahboomcar_ctrl yahboom_keyboard.launch
