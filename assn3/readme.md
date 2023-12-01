@@ -38,8 +38,7 @@ you can see robot move
 ```
 rostopic list
 ```
-<img src="./images/9.png"/>
-you can find robot moves based on "/robot_diff_drive_controller/cmd_vel" topic
+<img src="./images/9.png"/>you can find robot moves based on "/robot_diff_drive_controller/cmd_vel" topic
 <br/><br/>
 in "yahboom_keyboard.py"
 <br/>
