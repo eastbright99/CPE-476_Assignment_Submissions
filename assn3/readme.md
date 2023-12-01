@@ -25,6 +25,7 @@ you just need to modify the "mobile_robot.urdf.xacro" file
 <br/><br/>
 
 ## #3 Move robot with rqt_robot_steering
+<img src="./images/8.png"/>
 ```
 roslaunch ros_mobile_robot drive_robot.launch
 rosrun rqt_robot_steering rqt_robot_steering
@@ -40,9 +41,11 @@ you can see robot move
 ```
 rostopic list
 ```
+<img src="./images/9.png"/>
 you can find robot moves based on "/robot_diff_drive_controller/cmd_vel" topic
 
 so you need to change yahboom_keyboard.py
+<br/>
 <img src="./images/4.png"/>
 ```
 cmd_vel -> robot_diff_drive_controller/cmd_vel
