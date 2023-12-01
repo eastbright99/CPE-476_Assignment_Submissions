@@ -11,6 +11,7 @@ just need to change the "mobile_robot.urdf.xacro" file
 
 1) change chassis size
 <img src="./images/2.png"/>
+
 2) change wheel joint's position
 <img src="./images/3.png"/>
 
