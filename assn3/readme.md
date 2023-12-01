@@ -50,8 +50,8 @@ in "yahboom_keyboard.py"
 <br/>
 <img src="./images/4.png"/>
 
-so you need to change
-"cmd_vel" -> "robot_diff_drive_controller/cmd_vel"
+so you need to modify
+'cmd_vel' -> 'robot_diff_drive_controller/cmd_vel'
 
 after finishing change
 
@@ -59,6 +59,7 @@ after finishing change
 roslaunch ros_mobile_robot drive_robot.launch
 roslaunch yahboomcar_ctrl yahboom_keyboard.launch
 ```
+you can see robot move
 
 [Lidar Test vid](https://youtu.be/mS8J2_pSlNk)
 
