@@ -45,13 +45,14 @@ rostopic list
 ```
 <img src="./images/9.png"/>
 you can find robot moves based on "/robot_diff_drive_controller/cmd_vel" topic
-<br/>
-so you need to change yahboom_keyboard.py
+<br/><br/>
+in "yahboom_keyboard.py"
 <br/>
 <img src="./images/4.png"/>
-```
-cmd_vel -> robot_diff_drive_controller/cmd_vel
-```
+
+so you need to change
+"cmd_vel" -> "robot_diff_drive_controller/cmd_vel"
+
 after finishing change
 
 ```
