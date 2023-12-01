@@ -5,7 +5,7 @@
 based on "drive_robot.launch"
 <img src="./images/1.png"/>
 <br/>
-just need to change the "mobile_robot.urdf.xacro" file
+you just need to modify the "mobile_robot.urdf.xacro" file
 
 <br/><br/>
 
