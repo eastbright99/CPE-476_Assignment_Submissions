@@ -37,7 +37,7 @@ if you type this
 rostopic list
 ```
 <img src="./images/9.png"/>
-you can find robot moves based on "/robot_diff_drive_controller/cmd_vel" topic
+you can check robot moves based on "/robot_diff_drive_controller/cmd_vel" topic
 
 <br/><br/><br/>
 
