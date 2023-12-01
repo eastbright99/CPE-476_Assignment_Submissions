@@ -4,6 +4,10 @@
 <img src="./images/top.png" width="400" height="400"/><img src="./images/front.jpg" width="400" height="400"/><img src="./images/side.jpg" width="400" height="400"/><img src="./images/rover.jpg" width="400" height="400"/>
 <br/><br/><br/>
 ## #2 Controller Setup and Test
+* STM hex file download
+<img src="./images/STM.png" width="400" height="400"/>
+
+<br/><br/><br/>
 
 * Motor Test
 <img src="./images/motor.png" width="400" height="400"/>
