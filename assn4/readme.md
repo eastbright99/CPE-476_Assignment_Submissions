@@ -42,7 +42,7 @@
 
 ## #3 Jetson nano Setup
 * SD card img file download
-<img src="./images/sdcard.png" width="800" height="400"/>
+<img src="./images/sdcard.png" height="400"/>
 
 <br/><br/>
 
