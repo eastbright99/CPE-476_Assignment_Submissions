@@ -3,63 +3,63 @@
 ## #1 Setup robot (instant assemble)
 <img src="./images/top.png" width="400" height="400"/><img src="./images/front.jpg" width="400" height="400"/><img src="./images/side.jpg" width="400" height="400"/><img src="./images/rover.jpg" width="400" height="400"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 ## #2 Controller Setup and Test
 
 * STM hex file download
 <img src="./images/STM.png" width="800" height="400"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 * Motor Test
 <img src="./images/motor.png" width="400" height="400"/>
 
 [Motor Test vid](https://youtube.com/shorts/FEDPxpPm5LE)
 
-<br/><br/><br/>
+<br/><br/>
 
 * Encoder Test
 <img src="./images/encoder.png" width="800" height="400"/>
 
 [Encoder Test vid](https://youtu.be/XNeViqGiyZg)  
 
-<br/><br/><br/>
+<br/><br/>
 
 * IMU Test
 <img src="./images/IMU.png" width="800" height="400"/>
 
 [IMU Test vid](https://youtu.be/aI7jzNcRZzI)  
 
-<br/><br/><br/>
+<br/><br/>
 
 * Drive Test
 <img src="./images/drive.png" width="400" height="400"/>
 
 [Drive Test vid](https://youtube.com/shorts/gPzR5lazhyQ?feature=share)
 
-<br/><br/><br/>
+<br/><br/>
 
 ## #3 Jetson nano Setup
 * SD card img file download
 <img src="./images/desktop.png" width="800" height="400"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 * Jetson nano base
 <img src="./images/base.png" width="800" height="400"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 * ROS core check
 <img src="./images/ROS.png" width="800" height="400"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 * Directories check
 <img src="./images/directories.png" width="800" height="400"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 ## #4 Calibrate Robot (Default)
 
@@ -67,19 +67,19 @@
 <img src="./images/imu_cal.png" width="800" height="400"/>
 not sure with problem
 
-<br/><br/><br/>
+<br/><br/>
 
 * Linear calibration
 <img src="./images/linear_cal.png" width="800" height="400"/>
 didn't changed from Default
 
-<br/><br/><br/>
+<br/><br/>
 
 * Angular calibration
 <img src="./images/angular_cal.png" width="800" height="400"/>
 didn't changed from Default
 
-<br/><br/><br/>
+<br/><br/>
 
 ## #5 Lidar Setup and Test
 
@@ -88,5 +88,5 @@ didn't changed from Default
 
 [Lidar Test vid](https://youtu.be/mS8J2_pSlNk)
 
-<br/><br/><br/>
+<br/><br/>
 
