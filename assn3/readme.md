@@ -42,8 +42,8 @@ you can find robot moves based on "/robot_diff_drive_controller/cmd_vel" topic
 
 <img src="./images/4.png"/>
 
-so in "yahboom_keyboard.py" you need to modify
-'cmd_vel' -> 'robot_diff_drive_controller/cmd_vel'
+so in "yahboom_keyboard.py"<br/>
+you need to modify 'cmd_vel' -> 'robot_diff_drive_controller/cmd_vel'
 
 <br/>
 
