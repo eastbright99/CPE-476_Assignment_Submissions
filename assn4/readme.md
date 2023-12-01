@@ -61,20 +61,23 @@
 
 <br/><br/><br/>
 
-## #4 Calibrate Robot
+## #4 Calibrate Robot (Default)
 
 * IMU calibration
 <img src="./images/imu_cal.png" width="800" height="400"/>
+not sure with problem
 
 <br/><br/><br/>
 
 * Linear calibration
 <img src="./images/linear_cal.png" width="800" height="400"/>
+didn't changed from Default
 
 <br/><br/><br/>
 
 * Angular calibration
 <img src="./images/angular_cal.png" width="800" height="400"/>
+didn't changed from Default
 
 <br/><br/><br/>
 
