@@ -27,9 +27,7 @@ rosrun rqt_robot_steering rqt_robot_steering
 ```
 <img src="./images/8.png" width="200" height="300"/>
 
-Execution video [LINK](https://youtu.be/NaodVQfLnjE).
-you can see robot move with
-[rqt_robot_steering](https://youtu.be/mS8J2_pSlNk)
+you can see robot move with[rqt_robot_steering](https://youtu.be/mS8J2_pSlNk)
 
 <br/><br/>
 
@@ -57,8 +55,7 @@ roslaunch yahboomcar_ctrl yahboom_keyboard.launch
 ```
 <img src="./images/10.png"/>
 
-Execution video [LINK](https://youtu.be/NaodVQfLnjE)
-you can see robot
-[move with keyboard](https://youtu.be/mS8J2_pSlNk)
+
+you can see robot[move with keyboard](https://youtu.be/mS8J2_pSlNk)
 
 <br/><br/>
