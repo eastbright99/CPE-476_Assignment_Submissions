@@ -8,7 +8,9 @@ based on "drive_robot.launch"
 <br/>
 
 you just need to modify the "mobile_robot.urdf.xacro" file
+
 <br/>
+
 1) change chassis size
 <img src="./images/2.png"/>
 2) change wheel joint's position
