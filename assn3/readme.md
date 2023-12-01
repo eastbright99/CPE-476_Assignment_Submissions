@@ -16,9 +16,8 @@ you just need to modify the "mobile_robot.urdf.xacro" file
 <br/><br/>
 
 ## #2 Display robot with Rviz
+<img src="./images/5.png"/><img src="./images/7.png"/><img src="./images/6.png"/>
 
-* Motor Test
-<img src="./images/motor.png" width="400" height="400"/>
 
 [Motor Test vid](https://youtube.com/shorts/FEDPxpPm5LE)
 
