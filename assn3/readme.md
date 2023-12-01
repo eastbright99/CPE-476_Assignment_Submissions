@@ -2,10 +2,9 @@
 
 ## #1 modify the URDF
 <img src="./images/1.png"/>
-<br/>
 based on "drive_robot.launch" you just need to modify the "mobile_robot.urdf.xacro" file
 
-<br/>
+<br/><br/>
 
 1) change chassis size
 <img src="./images/2.png"/>
