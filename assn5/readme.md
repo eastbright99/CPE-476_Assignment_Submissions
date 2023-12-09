@@ -39,7 +39,8 @@ Seb 3rd Floor
 <br/><br/>
 
 ### Analysis
-
+mostly it goes well when we give proper 
+with Navigation Test vid there's an error between 1:35~2:30
 
 
 
