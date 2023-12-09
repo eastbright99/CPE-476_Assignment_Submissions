@@ -30,8 +30,16 @@ Seb 3rd Floor
 <br/><br/>
 
 ### Main Function
-<img src="./images/6.png"/>
+<img src="./images/6.png"/> : give your position
+
 <br/>
-<img src="./images/7.png"/>
+
+<img src="./images/7.png"/> : give your destination
 
 <br/><br/>
+
+### Analysis
+
+
+
+
