@@ -39,9 +39,9 @@ Seb 3rd Floor
 <br/><br/>
 
 ### Results and Discussion
-Everything generally proceeds smoothly when we provide proper <img src="./images/6.png"/> and <img src="./images/7.png"/>.
-However, a navigation error occurs in the second video between 1:35 and 2:30.
-I believe there are several possible reasons for this issue.
+Everything generally proceeds smoothly when we provide proper <img src="./images/6.png"/> and <img src="./images/7.png"/>.  
+However, a navigation error occurs in the second video between 1:35 and 2:30.  
+I believe there are several possible reasons for this issue.  
 <br/>
 Firstly, there is a height disparity between the lidar and the wheels. For instance, from the perspective of a wheel, an obstacle might appear in front of the rover. However, since the lidar is positioned at the top, it perceives the space above and may not detect any obstacles.
 <br/>
