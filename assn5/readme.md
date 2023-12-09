@@ -30,11 +30,11 @@ Seb 3rd Floor
 <br/><br/>
 
 ### Main Function
-<img src="./images/6.png"/> : enter your current position
+<img src="./images/5.png"/> : enter your current position
 
 <br/>
 
-<img src="./images/7.png"/> : enter your goal position
+<img src="./images/6.png"/> : enter your goal position
 
 <br/><br/>
 
