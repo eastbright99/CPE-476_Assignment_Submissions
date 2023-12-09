@@ -10,7 +10,7 @@
 <br/><br/>
 
 * Sample Datas  
-<img src="./images/5.jpg" width="600" height="200"/>
+<img src="./images/5.png" width="600" height="200"/>
 
 <br/>
 
