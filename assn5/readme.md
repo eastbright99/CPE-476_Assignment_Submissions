@@ -6,7 +6,7 @@
 
 [Mapping Test vid](https://youtu.be/trhHgOyOMUs)
 
-<br/><br/>
+<br/><br/><br/>
 
 ### Sample Datas  
 Lab  
@@ -27,7 +27,7 @@ Seb 3rd Floor
 
 [Navigation Test vid](https://youtu.be/-R1TFmbU0J0)
 
-<br/><br/>
+<br/><br/><br/>
 
 ### Main Function
 <img src="./images/5.png"/> : enter your current position
@@ -36,7 +36,7 @@ Seb 3rd Floor
 
 <img src="./images/6.png"/> : enter your goal position
 
-<br/><br/>
+<br/><br/><br/>
 
 ### Results and Discussion
 Everything generally proceeds smoothly when we provide proper <img src="./images/5.png"/> and <img src="./images/6.png"/>.  
@@ -49,4 +49,4 @@ Secondly, the rover may require sufficient space for steering. In narrow spaces,
 <br/>
 Finally, there seems to be an odometry gap between the calculated movement and the actual rover position. To be more specific, the program commands output a certain movement, but due to a slip between the wheels and the floor, the rover doesn't actually move as expected.  
 
-<br/><br/>
+<br/><br/><br/>
