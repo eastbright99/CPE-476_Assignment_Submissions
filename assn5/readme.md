@@ -36,7 +36,7 @@ Seb 3rd Floor
 
 <img src="./images/6.png"/> : enter your goal position
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ### Results and Discussion
 Everything generally proceeds smoothly when we provide proper <img src="./images/5.png"/> and <img src="./images/6.png"/>.  
