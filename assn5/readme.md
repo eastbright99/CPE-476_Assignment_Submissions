@@ -39,8 +39,8 @@ Seb 3rd Floor
 <br/><br/>
 
 ### Analysis
-mostly it goes well when we give proper 
-with Navigation Test vid there's an error between 1:35~2:30
+mostly it goes well when we give proper <img src="./images/6.png"/> and <img src="./images/7.png"/>,  
+But in Nevigation Video, from 1:35 to 2:30 there's an error
 
 
 
