@@ -10,12 +10,12 @@
 <br/><br/>
 
 * Sample Datas  
-<img src="./images/1.jpg" width="300" height="200"/><img src="./images/2.jpg" width="300" height="200"/>
-Lab
-<img src="./images/3.jpg" width="600" height="200"/>
-Seb 3rd
-<img src="./images/4.jpg" width="400" height="300"/>
-Seb 3rd
+<img src="./images/1.jpg" width="300" height="200"/><img src="./images/2.jpg" width="300" height="200"/>  
+Lab<br/>
+<img src="./images/3.jpg" width="600" height="200"/>  
+Seb 3rd<br/>
+<img src="./images/4.jpg" width="400" height="300"/>  
+Seb 3rd<br/>
 
 <br/><br/>
 
