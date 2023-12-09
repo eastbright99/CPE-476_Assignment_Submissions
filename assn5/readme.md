@@ -2,7 +2,7 @@
 
 ## #1 Mapping
 ### Mapping Test  
-<img src="./images/mapping.png" width="700" height="400"/>
+<img src="./images/mapping.png" width="700" height="450"/>
 
 [Mapping Test vid](https://youtu.be/trhHgOyOMUs)
 
@@ -16,14 +16,14 @@ Lab
 
 Seb 3rd Floor  
 <img src="./images/3.jpg" width="600" height="200"/>  
-<img src="./images/4.jpg" width="400" height="300"/>  
+<img src="./images/4.jpg" width="600" height="400"/>  
 
 <br/><br/>
 
 ## #2 Navigation
 
 ### Navigation Test  
-<img src="./images/navigation.png" width="700" height="400"/>
+<img src="./images/navigation.png" width="700" height="450"/>
 
 [Navigation Test vid](https://youtu.be/-R1TFmbU0J0)
 
