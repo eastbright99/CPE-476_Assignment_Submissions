@@ -9,8 +9,8 @@
 <br/><br/>
 
 ### Sample Datas  
-Lab
-<img src="./images/1.png" width="300" height="200"/><img src="./images/2.png" width="300" height="200"/>
+Lab  
+<img src="./images/1.jpg" width="300" height="200"/><img src="./images/2.jpg" width="300" height="200"/>
 
 <br/>
 
