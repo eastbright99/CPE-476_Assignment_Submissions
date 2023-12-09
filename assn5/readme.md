@@ -38,9 +38,28 @@ Seb 3rd Floor
 
 <br/><br/>
 
-### Analysis
-mostly it goes well when we give proper <img src="./images/6.png"/> and <img src="./images/7.png"/>,  
-But in Nevigation Video, from 1:35 to 2:30 there's an error
+### Results and Discussion
+Everything generally proceeds smoothly when we provide proper <img src="./images/6.png"/> and <img src="./images/7.png"/>.  
+However, a navigation error occurs in the 2nd video between 1:35 and 2:30.  
+I believe there are two possible reasons for this issue.  
+
+Firstly, there is a height disparity between the lidar and the wheels. For instance, from the perspective of a wheel, there might appear to be an obstacle in front of the rover. However, since the lidar is positioned at the top, it perceives the space above and may not detect any obstacles.
+
+Secondly, the rover may need enough space for steering. In narrow spaces, it produces mixed outputs, causing the rover to come to stop in its current position.
+
+Finally, it appears to be an odometry gap between the calculated movement and the actual rover position. To be more specific, the program commands output a certain movement, but due to a slip between the wheels and the floor, the rover doesn't actually move as expected.
 
 
 
+
+Everything generally proceeds smoothly when we provide proper <img src="./images/6.png"/> and <img src="./images/7.png"/>.
+However, a navigation error occurs in the second video between 1:35 and 2:30.
+I believe there are several possible reasons for this issue.
+<br/>
+Firstly, there is a height disparity between the lidar and the wheels. For instance, from the perspective of a wheel, an obstacle might appear in front of the rover. However, since the lidar is positioned at the top, it perceives the space above and may not detect any obstacles.
+<br/>
+Secondly, the rover may require sufficient space for steering. In narrow spaces, it produces mixed outputs, causing the rover to come to a stop in its current position.
+<br/>
+Finally, there seems to be an odometry gap between the calculated movement and the actual rover position. To be more specific, the program commands output a certain movement, but due to a slip between the wheels and the floor, the rover doesn't actually move as expected.
+
+<br/><br/>
