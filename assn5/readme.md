@@ -34,7 +34,7 @@ Seb 3rd Floor
 
 <br/>
 
-<img src="./images/7.png"/> : enter your destination position
+<img src="./images/7.png"/> : enter your goal position
 
 <br/><br/>
 
