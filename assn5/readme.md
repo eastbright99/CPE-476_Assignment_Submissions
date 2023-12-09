@@ -2,7 +2,7 @@
 
 ## #1 Mapping
 
-* Mapping Test
+* Mapping Test  
 <img src="./images/mapping.png" width="700" height="400"/>
 
 [Mapping Test vid](https://youtu.be/trhHgOyOMUs)
@@ -16,7 +16,7 @@
 
 ## #2 Navigation
 
-* Navigation Test
+* Navigation Test  
 <img src="./images/navigation.png" width="700" height="400"/>
 
 [Navigation Test vid](https://youtu.be/-R1TFmbU0J0)
