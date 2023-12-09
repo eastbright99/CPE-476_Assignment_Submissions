@@ -14,7 +14,7 @@ Lab
 
 <br/>
 
-Seb 3rd  
+Seb 3rd Floor  
 <img src="./images/3.jpg" width="600" height="200"/>  
 <img src="./images/4.jpg" width="400" height="300"/>  
 
@@ -27,8 +27,11 @@ Seb 3rd
 
 [Navigation Test vid](https://youtu.be/-R1TFmbU0J0)
 
+<br/><br/>
+
 ### Main Function
 <img src="./images/6.png"/>
 <br/>
 <img src="./images/7.png"/>
 
+<br/><br/>
