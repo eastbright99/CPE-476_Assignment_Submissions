@@ -6,7 +6,7 @@
 
 [Mapping Test vid](https://youtu.be/trhHgOyOMUs)
 
-<br/><br/>
+<br/><br/><br/>
 
 ### Sample Datas  
 Lab  
@@ -18,7 +18,7 @@ Seb 3rd Floor
 <img src="./images/3.jpg" width="600" height="200"/>  
 <img src="./images/4.jpg" width="600" height="400"/>  
 
-<br/><br/>
+<br/><br/><br/>
 
 ## #2 Navigation
 
@@ -27,7 +27,7 @@ Seb 3rd Floor
 
 [Navigation Test vid](https://youtu.be/-R1TFmbU0J0)
 
-<br/><br/>
+<br/><br/><br/>
 
 ### Main Function
 <img src="./images/5.png"/> : enter your current position
@@ -36,7 +36,7 @@ Seb 3rd Floor
 
 <img src="./images/6.png"/> : enter your goal position
 
-<br/><br/>
+<br/><br/><br/>
 
 ### Results and Discussion
 Everything generally proceeds smoothly when we provide proper <img src="./images/5.png"/> and <img src="./images/6.png"/>.  
