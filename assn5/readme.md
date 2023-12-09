@@ -9,9 +9,7 @@
 
 <br/><br/>
 
-* Sample Datas
-<br/>
-Lab  
+* Sample Datas  
 <img src="./images/1.jpg" width="300" height="200"/><img src="./images/2.jpg" width="300" height="200"/>  
 
 <br/>
