@@ -39,7 +39,7 @@ Seb 3rd Floor
 <br/><br/>
 
 ### Results and Discussion
-Everything generally proceeds smoothly when we provide proper <img src="./images/6.png"/> and <img src="./images/7.png"/>.  
+Everything generally proceeds smoothly when we provide proper <img src="./images/5.png"/> and <img src="./images/6.png"/>.  
 However, a navigation error occurs in the second video between 1:35 and 2:30.  
 I believe there are several possible reasons for this issue.  
 <br/>
